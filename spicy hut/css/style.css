@@ -10,7 +10,7 @@ body,h2 {
     height:100vh;
     color:white;
 } 
-header a{
+header a{ 
     text-decoration: none;
     color:yellow;
     min-width: 120px;
