@@ -8,7 +8,7 @@ body,h2 {
     background-size:cover;
     background-position: center;
     height:100vh;
-    color:white;
+    color:white; 
 } 
 header a{ 
     text-decoration: none;
